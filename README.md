@@ -27,7 +27,12 @@ In this section:
   - Using the model to classify the digits in the cells such that the empty cells are classified as zero
   - Getting the detected output in the form of an array of 81 digits
 
-# Part Three: DETECTING CONTOUR
+## Part Three: DETECTING CONTOUR
 In this section:
   - Reshaping the array into a 9 x 9 matrix
   - Solving the matrix using recursion
+
+## Built With
+- [TensorFlow 2](https://www.tensorflow.org/)
+- [Keras](https://www.tensorflow.org/api_docs/python/tf/keras)
+- [OpenCV](https://opencv.org/)
