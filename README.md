@@ -6,14 +6,14 @@ The project is divided into three parts:
   - Part Two: Detecting And Reading The Sudoku From An Image
   - Part Three: Solving The Puzzle
 
-## Part One: DIGIT CLASSIFICATION MODEL
+## Part One: Digit Classification Model
 In this section:
   - Loading Data
   - Splitting The Test Train And Validation Sets
   - Preprocessing The Data
   - Model Building And Training
 
-## Part Two: DETECTING AND READING THE SUDOKU FROM AN IMAGE
+## Part Two: Detecting and Reading the Sudoku from an Image
 In this section:
 - READING THE SUDOKU PUZZLE
   - Read an image from the dataset
@@ -27,7 +27,7 @@ In this section:
   - Using the model to classify the digits in the cells such that the empty cells are classified as zero
   - Getting the detected output in the form of an array of 81 digits
 
-## Part Three: DETECTING CONTOUR
+## Part Three: Solving the Puzzle
 In this section:
   - Reshaping the array into a 9 x 9 matrix
   - Solving the matrix using recursion
